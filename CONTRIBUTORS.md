@@ -773,6 +773,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I work at Uber on data storage, tooling and OOS - checkout [our work](https://github.com/uber-go/dosa)!
 - GitHub: [Evan Culver](https://github.com/eculver)
 
+#### Name: [Jenilee Chen] (https://github.com/jenileechen800)
+- Place: Vancouver, BC, CA
+- Bio: I am an undergraduate student.
+- GitHub: [Jenileechen800] (https://github.com/jenileechen800)
+
 #### Name: [Ezequiel Pequeño Calvar](https://github.com/remohir)
 - Place: London, United Kingdom
 - Bio: FrontEnd Developer
